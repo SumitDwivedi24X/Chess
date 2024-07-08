@@ -26,3 +26,8 @@ Welcome to the Online Chess Game project! This application allows players to pla
 1. Clone the repository:
    ```bash
    git clone https://github.com/SumitDwivedi24X/Chess.git
+
+## How to run?
+- **Type this given command in your terminal
+   ```bash
+   npx nodemon
